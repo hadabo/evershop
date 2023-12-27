@@ -1,0 +1,15 @@
+{
+  "production": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-anyprint-production-215451-authRole",
+      "UnauthRoleArn": "arn:aws:iam::495112030540:role/amplify-anyprint-production-215451-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::495112030540:role/amplify-anyprint-production-215451-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-anyprint-production-215451-deployment",
+      "UnauthRoleName": "amplify-anyprint-production-215451-unauthRole",
+      "StackName": "amplify-anyprint-production-215451",
+      "StackId": "arn:aws:cloudformation:eu-central-1:495112030540:stack/amplify-anyprint-production-215451/2e6ba590-a4fa-11ee-8eb1-02ef477ad5d7",
+      "AmplifyAppId": "d331jzk3zep96q"
+    }
+  }
+}
