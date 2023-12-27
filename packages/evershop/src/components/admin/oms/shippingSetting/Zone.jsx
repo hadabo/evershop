@@ -31,7 +31,7 @@ function Zone({ zone, countries, getZones }) {
       <div className="divide-y border rounded border-divider">
         <div className="flex justify-start items-center border-divider mt-2">
           <div className="p-2">
-            <MapIcon width={25} height={25} fill="#008060" />
+            <MapIcon width={25} height={25} fill="#2babe2" />
           </div>
           <div className="flex-grow px-1">
             <div>
